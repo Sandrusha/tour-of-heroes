@@ -1,6 +1,7 @@
 SUMMARY OF THE PROJECT:
 
 Created the initial application structure using the Angular CLI.
+
 Learned that Angular components display data.
 Used the double curly braces of interpolation to display the app title.
 Used the CLI to create a second HeroesComponent.
