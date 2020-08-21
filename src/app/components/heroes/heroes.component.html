@@ -1,0 +1,10 @@
+<h2>My Heroes</h2>
+<ul class="heroes">
+    <!--heroes holds the mock heroes list
+    hero holds the current hero object for each iteration through the list-->
+    <li *ngFor = "let hero of heroes"> 
+        <a routerLink = "/detail/{{hero.id}}">
+            <span class="badge">{{hero.id}}</span>{{hero.name}}
+        </a>
+    </li>
+</ul>

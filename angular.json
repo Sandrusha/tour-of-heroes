@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "TOH"
+    }
+  },
+  "defaultProject": "TOH",
+  "cli": {
+    "analytics": "0e59d27d-1ca7-4d34-accc-0237c1d65231"
+  }
 }
